@@ -140,7 +140,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 813482db3da235c4da15b5bdad91692d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.101
+      value: -0.13
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 813482db3da235c4da15b5bdad91692d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -247,7 +247,7 @@ BoxCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.47079748, y: 0.122188, z: 0.30883503}
-  m_Center: {x: 0.015348822, y: 0.13, z: -0.03664303}
+  m_Center: {x: 0.015348822, y: 0.075, z: -0.03664303}
 --- !u!136 &154608529
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -624,7 +624,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6f39ab2271827164eaeb42999914d315, type: 2}
+  - {fileID: 2100000, guid: b0b4de3bd6e976e4f8b3adc6e72377ed, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
